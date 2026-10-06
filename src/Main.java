@@ -6,5 +6,6 @@ void main() {
     int x = 5;
     int y = 10;
     int sum = x + y;
-    System.out.println("Hello vistula, sum is: " + sum);
+    System.out.println("Hello vistula");
+    System.out.println(" sum is: " + sum);
 }
